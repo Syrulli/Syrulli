@@ -1,7 +1,3 @@
-/* # About Me:
-Adaptable  and  impact-driven  developer  with  hands-on  experience  in  full  stack  development,  AI  integration, API integration and  user-centric  system <br>design.  Proven  ability  to  turn  complex  problems  into  simple,  scalable,  and  maintainable  solutions.  Experienced  in  delivering <br>real-world software systems that improve efficiency and reduce manual processes. */
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/syrullicerulli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lloydnim/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lloydlanguido@gmail.com) 
 
