@@ -1,5 +1,5 @@
-# About Me:
-Adaptable  and  impact-driven  developer  with  hands-on  experience  in  full  stack  development,  AI  integration, API integration and  user-centric  system <br>design.  Proven  ability  to  turn  complex  problems  into  simple,  scalable,  and  maintainable  solutions.  Experienced  in  delivering <br>real-world software systems that improve efficiency and reduce manual processes.
+/* # About Me:
+Adaptable  and  impact-driven  developer  with  hands-on  experience  in  full  stack  development,  AI  integration, API integration and  user-centric  system <br>design.  Proven  ability  to  turn  complex  problems  into  simple,  scalable,  and  maintainable  solutions.  Experienced  in  delivering <br>real-world software systems that improve efficiency and reduce manual processes. */
 
 
 ## 🌐 Socials:
